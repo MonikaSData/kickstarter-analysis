@@ -11,7 +11,7 @@ Perform an analysis of outcomes based on launch date and outcomes based on goals
 
 ## Analysis and Challenges
 
-The full analysis can be viewed here [Kickstarter-challenge]
+The full analysis can be viewed here [Kickstarter-challenge](Kickstarter_Challenge.zip)
 
 ### Analysis of Outcomes Based on Launch Date
 
