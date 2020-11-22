@@ -27,7 +27,7 @@ Visualize the percentage of successful, failed, and canceled plays based on the 
 ![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)  
 ---
 ### Challenges and Difficulties Encountered
-Possible challenges could arise if we tried to do deeper dive to understand why some campaigns failed while others were successful. Also trying to understand why campaings were cancelled would be difficult as there is no reason for cancellation.
+Possible challenges could arise if we tried to do deeper dive to understand why some campaigns failed while others were successful. Also trying to understand why campaings were canceled would be difficult as there is no reason for cancellation.
 
 ## Results
 
