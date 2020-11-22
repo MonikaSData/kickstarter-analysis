@@ -39,8 +39,8 @@ Possible challenges could arise if we tried to do deeper dive to understand why 
 
 - What can you conclude about the Outcomes based on Goals?
 
-  *The highhest number of kickstarter projects under plays subcategory (534) had a goal between 1000 and 4999 and 73% (388) of these kickstarter projects have been successful.
-  Total of 16 kickstarter projects under plays subcategory had goal grater than 50000 and 88% (14) of these kickstarter projects failed.*
+  *The highest number of kickstarter projects under plays subcategory (534) had a goal between 1000 and 4999 and 73% (388) of these kickstarter projects have been successful.
+  Total of 16 kickstarter projects under plays subcategory had goal greater than 50000 and 88% (14) of these kickstarter projects failed.*
   
 - What are some limitations of this dataset?
 
