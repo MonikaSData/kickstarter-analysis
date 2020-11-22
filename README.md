@@ -35,7 +35,7 @@ Possible challenges could arise if we tried to do deeper dive to understand why 
 
    *1. The most number of successful kickstarter campaings in the theater category have been launched in May.*
    
-   *2. The least successful month to launch a kickstarter campaign in ther theater category seems to be December.*
+   *2. The least successful month to launch a kickstarter campaign in the theater category seems to be December.*
 
 - What can you conclude about the Outcomes based on Goals?
 
