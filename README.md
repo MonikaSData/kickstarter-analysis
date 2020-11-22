@@ -34,6 +34,7 @@ Possible challenges could arise if we tried to do deeper dive to understand why 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
    *1. The most number of successful kickstarter campaings in the theater category have been launched in May.*
+   
    *2. The least successful month to launch a kickstarter campaign in ther theater category seems to be December.*
 
 - What can you conclude about the Outcomes based on Goals?
